@@ -1,7 +1,12 @@
 ## Time composto por:
-Vinicius Pereira
-Guilherme Lucas
-Filype Henryque
-Pedro Henrick
-Stanley Silva
-Dylan Felipe
+<p>Vinicius Pereira<p>
+<p>Guilherme Lucas<p>
+<p>Filype Henryque<p>
+<p>Pedro Henrick<p>
+<p>Stanley Silva<p>
+<p>Dylan Felipe<p>
+
+
+
+
+
